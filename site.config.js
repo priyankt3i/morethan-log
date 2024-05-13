@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `OpenUI`,
+      href: "https://github.com/priyankt3i/open-webui",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "Kumar Priyank - Blog Home",
-    description: "welcome to Kumar's Blog!",
+    title: "Scribble-Book : Priyank",
+    description: "welcome to Priyank's Blog!",
   },
 
   // CONFIG configration (required)
